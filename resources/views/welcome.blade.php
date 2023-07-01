@@ -5,7 +5,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <a href="{{ route('login') }}">
-                    <img src="{{ url('logo.jpeg') }}" />
+                    <img class="img-fluid" src="{{ url('logo.jpeg') }}" />
                 </a>
             </div>
         </div>

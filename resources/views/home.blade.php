@@ -15,7 +15,7 @@
                     @endif
 
 
-                    <img src="{{ url('logo.jpeg') }}" />
+                    <img class="img-fluid" src="{{ url('logo.jpeg') }}" />
                 </div>
             </div>
         </div>
